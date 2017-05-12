@@ -234,7 +234,7 @@
 		 
          $('#my-address').gMap({
             zoom: 11,
-            scrollwheel: true,
+            scrollwheel: false,
             maptype: 'ROADMAP',
             markers:[
             {
